@@ -13,8 +13,8 @@ provide example code how to train Maskrcnn from https://github.com/matterport/Ma
     -it will create <cv2_mask> <labelme_json> in train_data_mold/json
     -copy <cv2_mask> <labelme_json> in  <train_data_mold>
     
-3. motify train_models.py and run  to train model
-  -you can comapre comapre train_mold.py and train_bread.py to look what is the difference between them
+3. motify train_mold.py and run  to train model
+  -you can comapre train_mold.py and train_bread.py to look what is the difference between them
    and know how to modify the parameter
    
 4.run test_mold.py
